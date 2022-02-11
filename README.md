@@ -24,7 +24,9 @@ Additional findings from the above queries were supplies to HR managers to aid t
 - Senior Engineer, Senior Staff and Engineer's hold the lion's share (23.9%) of employees likely preparing for retirement.
 - Departments with the highest number of potential retirees are Development(25.45%),Production(22.30%) and Sales(7.27%).
 - Even though Development, Production, Sales have highest potential retiress, these departments also have highest number of mentors, 435, 356, and 272 respectively.
-- 
+
+Following is a category by position which shows the numbers of position to be filled, mentors by the position and current employees who would potentially serve for a longer term.
+
 ![Categories by Title](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Category%20by%20title.png)
 
 ### Mentorship Eligiblity:
