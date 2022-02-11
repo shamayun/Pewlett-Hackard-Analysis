@@ -12,11 +12,11 @@ To assist the HR team, I needed to perform anaysis using SQL with many relationa
 ## Results:
 I began the analysis with physical ERD of all the relevant tables. Uploaded the CSV files into their designated tables that I created prior to importing the data. Once all the CSV files were imported, SQL queries uncovered many of the questions raised by PH's management and HR Department. 
 
- ![ERD](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/ERD%20for%20PH%20employee%20DB.png)
+ ![ERD](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Resources/ERD%20for%20PH%20employee%20DB.png)
 ### Positions to Fulfill:
 PH was eager to find out which department would have the hardest impact followed by a summary of number of employees by department whose retirement is coming up soon. I was able to generate a query which summarized accurately the number of potental retirees' titles by departments:
 
-![Potential Retirees' Titles](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/employees%20retiring%20by%20titles.png)
+![Potential Retirees' Titles](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Resources/employees%20retiring%20by%20titles.png)
 
 Additional findings from the above queries were supplies to HR managers to aid their decision making:
 
@@ -27,14 +27,14 @@ Additional findings from the above queries were supplies to HR managers to aid t
 
 Following is a category by position which shows the numbers of position to be filled, mentors by the position and current employees who would potentially serve for a longer term.
 
-![Categories by Title](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Category%20by%20title.png)
+![Categories by Title](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Resources/Category%20by%20title.png)
 
 ### Mentorship Eligiblity:
 PH is now aware of the departments that may get impacted by the silver tsunami. PH's first step to mitigate the challenge was to create a superior mentorship program, comprised of tenured employees, who has served PH for the past decades and ready to continue the legacy through mentoring. Image below shows the a partial list of all mentors:
 
-![Partial Mentor List](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/eligible_mentors.png)
+![Partial Mentor List](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Resources/eligible_mentors.png)
 ## Summary: 
-It would be a challenge on any day to fill back 72K tenured employees. Fortunutely eought, there are a lot of mentors from the respective departments to assist in hiring, training an shaping towards a great future generation of employees. Current mentor to trainee ration is 1:47. I would recommend the managment to consider increasing the number of mentors to creat a effective training program, as the ideal mentor to mentee ratio is 1:20.
+It would be a challenge on any day to fill back 72K tenured employees. Fortunutely eough, there are a lot of mentors from the respective departments to assist in hiring, training an shaping towards a great future generation of employees. Current average mentor to trainee ration is 1:47. I would recommend the managment to consider increasing the number of mentors to create an effective training program, as the ideal mentor to mentee ratio is 1:20.
  
- ![Mentors Availability by Department](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Mentor%20Availability%20by%20Departments.png)
- ![Potential Retirees by Department](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Retirments%20by%20Departments.png)
+ ![Mentors Availability by Department](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Resources/Retirments%20by%20Departments.png)
+ ![Potential Retirees by Department](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Resources/Mentor%20Availability%20by%20Departments.png)
