@@ -13,7 +13,7 @@ To assist the HR team, I needed to perform anaysis using SQL with many relationa
 I began the analysis with physical ERD of all the relevant tables. Uploaded the CSV files into their designated tables that I created prior to importing the data. Once all the CSV files were imported, SQL queries uncovered many of the questions raised by PH's management and HR Department. 
 
  ![ERD](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/ERD%20for%20PH%20employee%20DB.png)
-### Employees Retiring by Department:
+### Positions to Fulfill:
 PH was eager to find out which department would have the hardest impact followed by a summary of number of employees by department whose retirement is coming up soon. I was able to generate a query which summarized accurately the number of potental retirees' titles by departments:
 
 ![Potential Retirees' Titles](https://github.com/shamayun/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/employees%20retiring%20by%20titles.png)
